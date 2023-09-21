@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kekecselim
-- 👀 I’m interested in programming
+- 👀 I’m interested in computer programming
 - 🌱 I’m currently learning front end back end developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skekec@gmail.com
